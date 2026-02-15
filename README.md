@@ -185,4 +185,4 @@ By building this function from scratch, we've gained insights into proper error 
 
 ## Authors
 
-[Lucas Boyadjian](https://github.com/Yadjian92) and [Stephane Paton](https://github.com/Steph974-Git)
+[Lucas Boyadjian](https://github.com/Yadjian) and [Stephane Paton](https://github.com/Steph974-Git)
